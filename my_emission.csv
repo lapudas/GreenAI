@@ -1,0 +1,2 @@
+id,project_name,experiment_description,epoch,start_time,duration(s),power_consumption(kWh),CO2_emissions(kg),CPU_name,GPU_name,OS,region/country,cost
+15e975ec-384a-4b40-a9ec-eb1f897e5189,YourProjectName,training the <your model> model,N/A,2025-07-09 19:00:01,7.823217153549194,1.0672140936094366e-07,6.01248143271778e-08,"Apple M2 Max/1 device(s), TDP:79.0", 0 device(s),MacOS,TW/Taiwan,0
