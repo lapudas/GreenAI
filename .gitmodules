@@ -1,0 +1,3 @@
+[submodule "longformer"]
+	path = longformer
+	url = https://github.com/allenai/longformer.git
